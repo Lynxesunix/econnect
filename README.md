@@ -1,6 +1,13 @@
 # econnect
 A script to make easier and faster your shell connection on Mac and Linux!
 
-An install.sh file will be provided soon... in the meanwhile, you can call the econnect.py in every moment, just by typing this command into your shell!<br />
-cd /usr/local/bin && alias econnect="--/downloads/econnect.py"<br />
-(The command will work only if the econnect.py file is downloaded in the default "Download" folder in the "home" directory (--/download)).
+An install.sh file will be provided soon... to install the file in the /usr/local/bin folder and make it easier to access!
+
+# supported connections and commands
+
+1) Make FTP Connection (SFTP Protocol).
+2) Establish SSH Connection (SSH Protocol).
+3) Download file (SSH Protocol).
+4) Download folder (SSH Protocol).
+5) File upload (SSH Protocol).
+6) Folder upload (SSH Protocol).
