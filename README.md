@@ -1,7 +1,6 @@
 # econnect
 A script to make easier and faster your shell connection on Mac and Linux!
 
-An install.sh file will be provided soon... to install the file in the /usr/local/bin folder and make it easier to access!
 
 # supported connections and commands
 
